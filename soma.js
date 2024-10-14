@@ -1,6 +1,6 @@
-let index = 13;
+let index = 12;
 let sum = 0;
-let k = 0;
+let k = 1;
 
 while (k < index) {
   k += 1;
